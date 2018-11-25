@@ -37,8 +37,6 @@ const StyledHeader = styled.header`
         display: grid;
         grid-template-columns: 1fr auto;
         border-bottom: 1px solid ${props => props.theme.lightgrey};
-
-
     }
 `;
 
